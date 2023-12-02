@@ -1,4 +1,4 @@
-# Line-Follower-CSA-project
+# FPGA-BASED-LineFollower&ObstacleDetection-CSA-project
 Line follower and Obstacle detection on FPGA board, a COMPUTER SYSTEM ARCHITECTURE PROJECT coded completely in Verilog (HDL) on Xilinx Design Suit
 Read the report for complete explanation!
 
